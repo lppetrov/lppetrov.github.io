@@ -8,53 +8,28 @@ permalink: /rust/
 
 ### Learning resources
 
-<ul>
-  <li>
-    https://doc.rust-lang.org/book/
-  </li>
+[Rust book](https://doc.rust-lang.org/book/)
 
-  <li>
-    https://www.youtube.com/watch?v=gAX3Zj-JGE0&t=2s  
-  </li>
+[Francesco Ciulla - Learn the Rust programming language - Course for beginners (Youtube)](https://www.youtube.com/watch?v=gAX3Zj-JGE0)
 
-  <li>
-    https://rustlings.rust-lang.org/
-  </li>
+[Rustlings](https://rustlings.rust-lang.org/)
 
-  <li>
-    https://doc.rust-lang.org/rust-by-example/
-  </li>
+[Rust by example](https://doc.rust-lang.org/rust-by-example/)
 
-  <li>
-    https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa - Crust of rust
-  </li>
+[Crust of rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
 
-  <li>
-    https://github.com/rustaccato/road-to-being-master-rustacean/blob/main/Rust%20for%20Rustaceans.pdf
-  </li>
+[Rust for Rustaceans](https://github.com/rustaccato/road-to-being-master-rustacean/blob/main/Rust%20for%20Rustaceans.pdf)
 
-  <li>
-    "Effective Rust" book
-  </li>
+["Effective Rust"](https://www.lurklurk.org/effective-rust/)
   
-  <li>
-    https://www.youtube.com/watch?v=tgJ8d9yQtKY
-  </li>
+[Learn the Rust Programming Language - 1-hour Bootcamp for beginners (Youtube)](https://www.youtube.com/watch?v=tgJ8d9yQtKY)
 
-  <li>
-    https://www.youtube.com/watch?v=BCXK-s_sGdU
-  </li>
+[100 ADVANCED Tips in Rust for 2025 (Beginner to PRO)](https://www.youtube.com/watch?v=BCXK-s_sGdU)
 
-  <li>
-    https://youtu.be/BpPEoZW5IiY?si=ejh2Thck_6KkJCM1
-  </li>
+[Learn Rust Programming - Complete Course (Youtube)](https://youtu.be/BpPEoZW5IiY?si=ejh2Thck_6KkJCM1)
 
-  <li>
-    https://cliffle.com/p/dangerust/
-  </li>
+[Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust/)
 
-  <li>
-    https://rust-for-c-programmers.salewskis.de/
-  </li>
-  
-</ul>
+[Rust for C programmers](https://rust-for-c-programmers.salewskis.de/)
+
+
