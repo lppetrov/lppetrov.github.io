@@ -1,5 +1,8 @@
+---
 layout: page
 title: "Microcontrollers"
-permalink: /microcontrollers
+permalink: /microcontrollers/
+---
 
 Some details about microcontrollers I am experimenting with.
+
